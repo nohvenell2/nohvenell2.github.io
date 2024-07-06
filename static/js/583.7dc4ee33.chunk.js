@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklearnant=self.webpackChunklearnant||[]).push([[583],{7583:(e,n,s)=>{s.r(n),s.d(n,{default:()=>t});s(5043);var r=s(579);const t=function(){return(0,r.jsx)("h1",{children:"here is Asset4"})}}}]);
+//# sourceMappingURL=583.7dc4ee33.chunk.js.map

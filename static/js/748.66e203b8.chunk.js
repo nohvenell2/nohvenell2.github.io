@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklearnant=self.webpackChunklearnant||[]).push([[748],{1748:(e,n,t)=>{t.r(n),t.d(n,{default:()=>a});const a=function(e){const n=e[0],t=e[1]/100,a=e[2],s=e[3]/100,u=e[4]/100,c=e[5]/100,l=e[6]/100,r=e[7],f=e[8];let k;return k=l>=0?1-l:1-l/2,(n*(1+t)+a)*(1+s)*(1+u*c)*k*r*(1+16*f/(2e3+f))}}}]);
+//# sourceMappingURL=748.66e203b8.chunk.js.map

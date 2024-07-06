@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/77.2f55879e.chunk.js","mappings":"qJAIA,QAHA,WACI,OAAOA,EAAAA,EAAAA,KAAA,MAAAC,SAAI,kBACf,C","sources":["pages/Asset2.js"],"sourcesContent":["import React from \"react\";\r\nfunction Asset2(){\r\n    return <h1>here is Asset2</h1>\r\n}\r\nexport default Asset2;"],"names":["_jsx","children"],"sourceRoot":""}

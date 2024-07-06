@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklearnant=self.webpackChunklearnant||[]).push([[109],{4109:(e,n,s)=>{s.r(n),s.d(n,{default:()=>l});var a=s(5043),c=s(579);const l=()=>{const e=(e=>a.lazy((()=>s(629)("./".concat(e)))))("Asset1");return(0,c.jsx)(a.Suspense,{fallback:(0,c.jsx)("h1",{children:"Loading"}),children:(0,c.jsx)(e,{})})}}}]);
+//# sourceMappingURL=109.21a1f358.chunk.js.map
